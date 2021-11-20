@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbPaA0Oqa2SquQIz/gESLHlqSCBJdupSbrxG4F8CgvBvy0G7h+LqNOEiyWDd4WWPlmv1XDID9IXhAwLUgiX18g==",
+  "dgSpecHash": "40OXvTu6SYF3+FFsmktJcDOKK2ZY7ExNwMwUQ13s/45uYK4vxBoNSjBp0e/Fk9mTu1gohKgrdG3wylZC23LJxA==",
   "success": true,
-  "projectFilePath": "/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/TodoApi.csproj",
+  "projectFilePath": "/Users/dominik/Documents/GitHub/temalabor/backend/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/dominik/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/dominik/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

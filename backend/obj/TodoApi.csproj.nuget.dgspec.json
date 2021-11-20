@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/TodoApi.csproj": {}
+    "/Users/dominik/Documents/GitHub/temalabor/backend/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/TodoApi.csproj": {
+    "/Users/dominik/Documents/GitHub/temalabor/backend/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/TodoApi.csproj",
+        "projectUniqueName": "/Users/dominik/Documents/GitHub/temalabor/backend/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/TodoApi.csproj",
+        "projectPath": "/Users/dominik/Documents/GitHub/temalabor/backend/TodoApi.csproj",
         "packagesPath": "/Users/dominik/.nuget/packages/",
-        "outputPath": "/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/",
+        "outputPath": "/Users/dominik/Documents/GitHub/temalabor/backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dominik/.config/NuGet/NuGet.Config"
