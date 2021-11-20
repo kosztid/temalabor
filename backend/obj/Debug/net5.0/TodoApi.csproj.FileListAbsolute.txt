@@ -1,0 +1,426 @@
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/appsettings.Development.json
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/appsettings.json
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.exe
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.deps.json
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.runtimeconfig.json
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.runtimeconfig.dev.json
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ref/TodoApi.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.pdb
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.csproj.AssemblyReference.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.AssemblyInfoInputs.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.AssemblyInfo.cs
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.csproj.CoreCompileInputs.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/staticwebassets/TodoApi.StaticWebAssets.Manifest.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/staticwebassets/TodoApi.StaticWebAssets.xml
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/scopedcss/bundle/TodoApi.styles.css
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.RazorTargetAssemblyInfo.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/ref/TodoApi.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.pdb
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.genruntimeconfig.cache
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Humanizer.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Newtonsoft.Json.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.Convention.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.Hosting.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.Runtime.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.TypedParts.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Runtime.Caching.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+Z:/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/appsettings.Development.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/appsettings.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.deps.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.runtimeconfig.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.runtimeconfig.dev.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ref/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/TodoApi.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Humanizer.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.csproj.AssemblyReference.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.AssemblyInfoInputs.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.AssemblyInfo.cs
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/staticwebassets/TodoApi.StaticWebAssets.Manifest.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/staticwebassets/TodoApi.StaticWebAssets.xml
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/scopedcss/bundle/TodoApi.styles.css
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.csproj.CopyComplete
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/ref/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi/obj/Debug/net5.0/TodoApi.genruntimeconfig.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/appsettings.Development.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/appsettings.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/TodoApi.deps.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/TodoApi.runtimeconfig.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/TodoApi.runtimeconfig.dev.json
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ref/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/TodoApi.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Humanizer.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.csproj.AssemblyReference.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.AssemblyInfoInputs.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.AssemblyInfo.cs
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/staticwebassets/TodoApi.StaticWebAssets.Manifest.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/staticwebassets/TodoApi.StaticWebAssets.xml
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/scopedcss/bundle/TodoApi.styles.css
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.csproj.CopyComplete
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/ref/TodoApi.dll
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.pdb
+/Users/dominik/Documents/Bme/Sajat/5.félév/Témalab/backend/TodoApi másolat/obj/Debug/net5.0/TodoApi.genruntimeconfig.cache
