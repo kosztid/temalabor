@@ -43,8 +43,10 @@ A szerver  ASP.NET Core alapú, az adatok tárolására pedig SqLite-ot használ
 A létrehozott modellem két különböző entitást tartalmaz. 
   - Oszlopot(Column),
   - és a Teendőt(TodoItem). 
+
 Az oszlop tartalmaz:
   - egy egyedi azonosítót.
+
 A teendőknek van:
  - egy egyedi azonosítója,
  - neve,
