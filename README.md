@@ -19,7 +19,8 @@ A tutorialok folyamán készítettem: TicTacToe React webalkalmazást, illetve A
 
 ### A React Frontend
 
-Futtatásához szükséges az npm telepítése, majd ennek segítségével futtatható a projektmappában.
+FONTOS: A futtatáshoz először a backend elindítása szükséges, különben 
+
 Három osztályt különböztetek meg
   -	ColumnContainer
   -	Column
@@ -33,6 +34,8 @@ Ilyen műveletek a teendőkön:
   - Két teendő sorrendjének megcserélése
 
 Todo: Megjeleníti a teendőt, tárolja a hozzá tartozó nevet, leírást, illetve ezen adatokat módosíthatóvá teszi. Beépített gombjai kezdeményezik a Column teendőkezelő műveleteit.
+
+Adatok feltöltése: A fetch() művelet használatával indítás után először beolvassa a kívánt oszlopokat, majd ezekhez hozzárendeli a megfelelő todo kártyákat.
 
 A webalkalmazás a :3000-es porton fut, míg az adatbázis az :5000(http)/:5001(https) porton érhető el. A kettő közti kapcsolat megteremtéséhez package.json fájlban a projektben proxyt állítottam be az :5001-es portra, így a fetch műveletek elérik a kívánt Url-t.
 
@@ -72,3 +75,14 @@ POST: Hozzáadja az elemet a listához.
 DELETE: A megadott /id vel rendelkező elemet eltávolítja.
  - return 204 (NO CONTENT) : az elem eltávolítása sikeres
  - return 404 (NOT FOUND) : nincs ilyen törölni kívánt elem
+
+## Motiváció
+
+A téma kiválasztásában fontos szerepet játszott, hogy igyekeztem olyat keresni amely bővíteni tudja a tudásomat a mintatanterven kívül is, és a Javascript a Mobil és Webes szoftverek tárgy leírását előre megnézve sem volt túlságosan mély, illetve a React pedig egy teljesen új technológia volt számomra. A kiválasztás mellett az is sokat számított, hogy számos témát megnyitva minimális leírást láttam csak, ezen téma viszont a teljes félévre lebontva, tételesen kifejtve jobban is megragadta az érdeklődésemet.
+
+## Féléves tapasztalatok
+
+A rendszeres konzultációk, illetve a nagy önállóság a kiadott segédanyagok feldolgozásával, majd elkészítésével mindenképpen pozitívan hatott. Segített, hogy jobban beoszthassam az időmet, illetve az önálló feldolgozás, utánajárás során úgy érzem jobban is megértettem a használt technológiák működését, mint ahogy azt egy vezetettebb formában megtehettem volna.
+
+
+Egészen sok nehézségbe ütköztem eleinte a frontend fejlesztése során, ami abból fakad, hogy nagy mértékben más volt, mint bármely korábban tanult nyelv. A React.js komponensek megértése olyannyira nehezen ment, hogy már egy működő frontendem volt csupán komponensekre bontás nélkül (god class effect), mikor megértettem pontosan hogyan működnek. Ekkor több Componentre bontva újraírtam a teljes frondend kódot a jelenlegi állapotára.
