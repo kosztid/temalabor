@@ -35,6 +35,8 @@ Ilyen műveletek a teendőkön:
 
 Todo: Megjeleníti a teendőt, tárolja a hozzá tartozó nevet, leírást, illetve ezen adatokat módosíthatóvá teszi. Beépített gombjai kezdeményezik a Column teendőkezelő műveleteit.
 
+Az egységes megjelenéshez Material UI-t használok.
+
 Adatok feltöltése: A fetch() művelet használatával indítás után először beolvassa a kívánt oszlopokat, majd ezekhez hozzárendeli a megfelelő todo kártyákat.
 
 A webalkalmazás a :3000-es porton fut, míg az adatbázis az :5000(http)/:5001(https) porton érhető el. A kettő közti kapcsolat megteremtéséhez package.json fájlban a projektben proxyt állítottam be az :5001-es portra, így a fetch műveletek elérik a kívánt Url-t.
