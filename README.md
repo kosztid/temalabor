@@ -1,4 +1,4 @@
-•	Témalabor – React és ASP.NET Core technológiák használatávalT webfejlesztés.
+#	Témalabor – React és ASP.NET Core technológiák használatávalT webfejlesztés.
 
 Az elkészített alkalmazás célja egy Teendőket kezelő alkalmazás biztosítása, amelyben webes felületen oszlopokat hozhatunk létre, melyekhez teendőket adhatunk hozzá, és ezen teendőket egy adatbázisban tároljuk.
 
