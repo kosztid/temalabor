@@ -1,17 +1,17 @@
 #	Témalabor – React és ASP.NET Core technológiák használatával webfejlesztés
 
-##Leírás
+## Leírás
 
 Az elkészített alkalmazás célja egy Teendőket kezelő alkalmazás biztosítása, amelyben webes felületen oszlopokat hozhatunk létre, melyekhez teendőket adhatunk hozzá, és ezen teendőket egy adatbázisban tároljuk.
 
-##Tartalom
+## Tartalom
 Az Github repository 3 fő elemet tartalmaz. A technológiák megismerése során elkészített tutorialok forrásait, a React alapú frontendet, és az ASP.NET Core Web Api alapú backendet.
 
 A tutorialok folyamán készítettem: TicTacToe React webalkalmazást, illetve ASP.NET Core alapú adatbázist Mssql-re építve, illetve egy WebApi projektet.
 
-##Projekt felépítés
+## Projekt felépítés
 
-###A React Frontend
+### A React Frontend
 
 Futtatásához szükséges az npm telepítése, majd ennek segítségével futtatható a projektmappában.
 Három osztályt különböztetek meg
@@ -30,7 +30,7 @@ Todo: Megjeleníti a teendőt, tárolja a hozzá tartozó nevet, leírást, ille
 
 A webalkalmazás a :3000-es porton fut, míg az adatbázis az :5000(http)/:5001(https) porton érhető el. A kettő közti kapcsolat megteremtéséhez ****** fájlban a projektben proxyt állítottam be az :5001-es portra, így a fetch műveletek elérik a kívánt Url-t.
 
-###Az ASP.NET Core WebApi Backend
+### Az ASP.NET Core WebApi Backend
 
 A szerver  ASP.NET Core alapú, az adatok tárolására pedig SqLite-ot használok. Az SqLite abból fakad, hogy kezdetben ****-t használtam, viszont mivel MacOs-t használok, és az csak Windows alatt támogatott így a fejlesztés megkönnyítése érdekében áttértem SqLite-ra????.
 
