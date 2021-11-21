@@ -19,7 +19,7 @@ A tutorialok folyamán készítettem: TicTacToe React webalkalmazást, illetve A
 
 ### A React Frontend
 
-FONTOS: A futtatáshoz először a backend elindítása szükséges, különben 
+FONTOS: A futtatáshoz először a backend elindítása szükséges ahonnan betöltheti és ahova mentheti az adatokat.
 
 Három osztályt különböztetek meg
   -	ColumnContainer
