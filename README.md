@@ -57,14 +57,18 @@ A teendőknek van:
 A program indításkor leellenőrzi, hogy létezik-e az adatbázis. Amennyiben nem, létrehozza azt.
 GET,PUT, POST,DELETE műveletek hajthatóak végre az adatokon, ezeket meghívhatjuk manuálisan is például a Postman alkalmazás használatával, illetve a webalkalmazásunk is ezeket használja.
 A megfelelő url el host:5001/api/+colums vagy todoitems hívott művelettel az alábbiakat tehetjük.
+
 GET: Visszatér a tárolt adatokat tartalmazó listával.
  - return 200 (OK) : a lekérdezés sikeres volt
+
 PUT: A megadott /id vel rendelkező elemet módosítja.
  - return 200 (OK) : az adat módosítása sikeres volt
  - return 404 (NOT FOUND) : amennyiben nem található ilyen id-jú módosítani kívánt elem.
+
 POST: Hozzáadja az elemet a listához.
  - return 201 (CREATED) : az új adategység hozzáfűzése sikeres
  - return 500 (Internal server error) : hibát dob ha olyan id-jú elemet akarunk hozzáadni ami már létezik, ezzel megsértve a kulcs egyediségét
+
 DELETE: A megadott /id vel rendelkező elemet eltávolítja.
  - return 204 (NO CONTENT) : az elem eltávolítása sikeres
  - return 404 (NOT FOUND) : nincs ilyen törölni kívánt elem
