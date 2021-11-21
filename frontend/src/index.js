@@ -114,36 +114,15 @@ class ProjectBox extends React.Component {
         this.state={
             todos:Array().fill(''),
             id:this.props.value,
-            datalines:Array().fill(''),
-            datas:Array().fill(''),
-            ids:Array().fill(''),
-            opens:Array().fill(false),
-            test:'testname',
             value:'',
             value2:'',
-            valuemodify:'aaaaa',
-            value2modify:'bbbbb',
             count:0,
             open:false,
-            modifydx:0,
             init:false,
             max:false,
             maxid:0
         }
         this.handleSubmit = this.handleSubmit.bind(this);
-        this.handleSubmitmodify = this.handleSubmitmodify.bind(this);
-    }
-
-    handleClickOpenmodify(dx){
-        let boolarray=this.state.opens
-        boolarray[dx]=true
-        let array1=this.state.datalines
-        let array2=this.state.datas
-        this.setState({opens:boolarray,
-        valuemodify:array1[dx],
-            value2modify:array2[dx],
-            modifydx:dx
-        })
     }
     handleClosemodify(dx){
         let boolarray=this.state.opens
@@ -163,7 +142,7 @@ class ProjectBox extends React.Component {
         }
     }
     adddatalines(data){
-        var k=0
+        let k=0
         let todolist=[]
         let cnt=this.state.count
         for(k=0;k<data.length;k++){
@@ -186,16 +165,6 @@ class ProjectBox extends React.Component {
         }
 
     getmaxid(){
-      /*  if(this.state.max===false) {
-            const uri = '/api/todoitems';
-            fetch(uri)
-                .then(response => response.json())
-                .then(data => this.maxid(data))
-                .catch(error => console.error('Unable to get items.', error));
-        }
-
-
-       */
         if(this.state.max===false){
             const uri = '/api/todoitems';
             fetch(uri)
@@ -223,13 +192,7 @@ class ProjectBox extends React.Component {
 
     handleSubmit(event) {
         event.preventDefault();
-        let newarray=this.state.datalines
-        let newarray2=this.state.datas
-        let newarray3=this.state.ids
         let prevcount=this.state.count
-        newarray[this.state.count]=this.state.value
-        newarray2[this.state.count]=this.state.value2
-        newarray3[this.state.count]=this.state.maxid+1
         let todoslist=this.state.todos
         todoslist.push(<Todo name={this.state.value}
                             description={this.state.value2}
@@ -244,8 +207,6 @@ class ProjectBox extends React.Component {
             columnID:this.state.id,
             name:this.state.value,
             description:this.state.value2,
-          //  position:1,
-         //   column:null
         }
         fetch('api/todoitems', {
             method: 'POST',
@@ -259,9 +220,6 @@ class ProjectBox extends React.Component {
             .catch(error => console.error('Unable to add item.', error))
         this.setState({
             count:prevcount+1,
-            datalines:newarray,
-            datas:newarray2,
-            ids:newarray3,
             value:'',
             value2:'',
             open:false,
@@ -272,45 +230,6 @@ class ProjectBox extends React.Component {
 
 
     }
-
-
-    handleSubmitmodify(event) {
-        //this.setState({output: this.state.value })
-        event.preventDefault();
-        let newarray=this.state.datalines
-        let newarray2=this.state.datas
-        let dx=this.state.modifydx
-        newarray[dx]=this.state.valuemodify
-        newarray2[dx]=this.state.value2modify
-        let id=this.state.ids[dx]
-
-        const item={
-
-        }
-        fetch('/api/todoitems/'+[id], {
-            method: 'PUT',
-            headers: {
-                'Content-type': 'application/json; charset=UTF-8'
-            },
-            body: JSON.stringify({
-                    id:id,
-                    columnID:this.state.id,
-                    name:this.state.valuemodify,
-                    description:this.state.value2modify,
-                 //   position:1,
-                //    column:null
-            })
-        }).catch(error => console.error('Unable to add item.', error))
-        /*    .then(()=>this.setState({
-            datalines:newarray,
-            datas:newarray2,
-            valuemodify:'',
-        }))*/
-
-
-        this.handleClosemodify(dx)
-    }
-
     emptydataline(i){
 
         fetch("/api/todoitems/"+i, {
@@ -348,8 +267,6 @@ class ProjectBox extends React.Component {
             columnID:this.state.id,
             name:datalist[dx-1].name,
             description:datalist[dx-1].description,
-         //   position:1,
-         //   column:null
         }
 
         const itemalso={
@@ -357,8 +274,6 @@ class ProjectBox extends React.Component {
             columnID:this.state.id,
             name:datalist[dx].name,
             description:datalist[dx].description,
-         //   position:1,
-         //   column:null
         }
         this.fetchback(itemfelso.id,itemfelso,itemalso.id,itemalso)
 
@@ -366,7 +281,6 @@ class ProjectBox extends React.Component {
     }
 
     downdataline(k){
-        let i=0
         const uri = '/api/todoitems';
         fetch(uri)
             .then(response => response.json())
@@ -395,8 +309,6 @@ class ProjectBox extends React.Component {
             columnID:this.state.id,
             name:datalist[dx+1].name,
             description:datalist[dx+1].description,
-         //   position:1,
-         //   column:null
         }
 
         const itemalso={
@@ -404,68 +316,11 @@ class ProjectBox extends React.Component {
             columnID:this.state.id,
             name:datalist[dx].name,
             description:datalist[dx].description,
-          //  position:1,
-          //  column:null
         }
         this.fetchback(itemfelso.id,itemfelso,itemalso.id,itemalso)
 
         setTimeout(() => { this.setState({todos:Array().fill(''),init:false})},500)
     }
-
-    //direction 0 downdata, 1 updata
-    /*
-    toMove(data,k,direction){
-        let dx
-        let datalist=[]
-        for(let d=0;d<data.length;d++){
-            datalist.push(data[d])
-        }
-        for(let i=0;i<datalist.length;i++){
-            if(datalist[i].id===k){
-                dx=i
-            }
-        }
-        const itemfelso={
-            id:datalist[dx].id,
-            columnID:this.state.id,
-            name:datalist[dx-1].name,
-            description:datalist[dx-1].description,
-            position:1,
-            column:null
-        }
-        const itemfofel={
-            id:datalist[dx-1].id,
-            columnID:this.state.id,
-            name:datalist[dx].name,
-            description:datalist[dx].description,
-            position:1,
-            column:null
-        }
-        const itemfo={
-            id:datalist[dx+1].id,
-            columnID:this.state.id,
-            name:datalist[dx].name,
-            description:datalist[dx].description,
-            position:1,
-            column:null
-        }
-        const itemalso={
-            id:datalist[dx].id,
-            columnID:this.state.id,
-            name:datalist[dx+1].name,
-            description:datalist[dx+1].description,
-            position:1,
-            column:null
-        }
-        if(direction==2){
-            this.fetchback(itemfo.id,itemfo,itemalso.id,itemalso)
-        }
-        if(direction==1){
-            this.fetchback(itemfofel.id,itemfofel,itemfelso.id,itemfelso)
-        }
-        this.setState({todos:Array().fill(''),init:false})
-    }
-    */
 
     fetchback(i,item,i2,item2){
         fetch("/api/todoitems/"+i, {
@@ -539,7 +394,6 @@ class Main extends React.Component {
     fetchcolumn(i){
         const item={
             ID:i,
-           // TodoItems:null,
         }
         fetch('api/columns', {
             method: 'POST',
@@ -553,7 +407,7 @@ class Main extends React.Component {
             .catch(error => console.error('Unable to add item.', error))
     }
 
-    addProject(dx){
+    addProject(){
         let idx=this.state.maxid+1
         let projects= []
         for(let j=0;j<this.state.numberOfprojects;j++){
@@ -573,7 +427,6 @@ class Main extends React.Component {
         })
     }
     addProjectwithoutfetch(dx){
-        let max=this.state.max
         let projects= []
         for(let j=0;j<this.state.numberOfprojects;j++){
             projects.push(this.state.projectArray[j])

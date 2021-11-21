@@ -11,8 +11,5 @@ namespace TodoApi.Models
         public int ColumnID { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-       // public int Position { get; set; }
-
-        //public Column Column { get; set; }
     }
 }

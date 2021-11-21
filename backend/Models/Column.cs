@@ -8,6 +8,5 @@ namespace TodoApi.Models
     public class Column
     {
         public int ID { get; set; }
-        //public ICollection<TodoItem> TodoItems { get; set; }
     }
 }

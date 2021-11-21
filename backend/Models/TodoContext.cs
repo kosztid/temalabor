@@ -19,9 +19,6 @@ namespace TodoApi.Models
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<TodoItem>().ToTable("Todos");
             modelBuilder.Entity<Column>().ToTable("Columns");
-
-           
-
         }
 
         public DbSet<TodoItem> TodoItems { get; set; }
