@@ -120,7 +120,6 @@ class ProjectBox extends React.Component {
             open:false,
             init:false,
             max:false,
-            maxid:0
         }
         this.handleSubmit = this.handleSubmit.bind(this);
     }
@@ -138,13 +137,14 @@ class ProjectBox extends React.Component {
             fetch(uri)
                 .then(response => response.json())
                 .then(data => this.adddatalines(data))
+                .then(()=>this.resetterfun())
                 .catch(error => console.error('Unable to get items.', error));
         }
     }
     adddatalines(data){
         let k=0
         let todolist=[]
-        let cnt=this.state.count
+
         for(k=0;k<data.length;k++){
             if(data[k].columnID===this.state.id){
                 console.log(data[k].name)
@@ -157,10 +157,10 @@ class ProjectBox extends React.Component {
                                  emptydataline={(i)=>this.emptydataline(i)}
 
                 />)
-                cnt++
+
                 }
             }
-        this.setState({todos:todolist,count:cnt})
+        this.setState({todos:todolist})
 
         }
 
@@ -169,41 +169,20 @@ class ProjectBox extends React.Component {
             const uri = '/api/todoitems';
             fetch(uri)
                 .then(response => response.json())
-                .then(data => this.maxid(data))
+                .then(data => this.resetterfun())
                 .catch(error => console.error('Unable to get items.', error));
         }
-
-        setTimeout(() => {  const uri = '/api/todoitems';
-            fetch(uri)
-                .then(response => response.json())
-                .then(data => this.maxid(data))
-                .catch(error => console.error('Unable to get items.', error)); }, 5000);
     }
-    maxid(data){
-        var dx=0;
-        for(var k=0;k<data.length;k++){
-            dx=data[k].id
-        }
-        this.setState({
-            maxid:dx,
-            max:true
-        })
+    resetterfun(){
+        this.setState({max:true})
     }
 
     handleSubmit(event) {
         event.preventDefault();
         let prevcount=this.state.count
         let todoslist=this.state.todos
-        todoslist.push(<Todo name={this.state.value}
-                            description={this.state.value2}
-                            id={this.state.maxid+1}
-                             columnid={this.state.id}
-                            downdataline={(i)=>this.downdataline(i)}
-                            updataline={(i)=>this.updataline(i)}
-                            emptydataline={(i)=>this.emptydataline(i)}
-        />)
+
         const item={
-            id:this.state.maxid+1,
             columnID:this.state.id,
             name:this.state.value,
             description:this.state.value2,
@@ -217,6 +196,15 @@ class ProjectBox extends React.Component {
             body: JSON.stringify(item)
             })
             .then(response => response.json())
+            .then(data =>
+                todoslist.push(<Todo name={data.name}
+                                     id={data.id}
+                                     description={data.description}
+                                     columnid={this.state.id}
+                                     downdataline={(i)=>this.downdataline(i)}
+                                     updataline={(i)=>this.updataline(i)}
+                                     emptydataline={(i)=>this.emptydataline(i)}
+                />))
             .catch(error => console.error('Unable to add item.', error))
         this.setState({
             count:prevcount+1,
@@ -227,6 +215,10 @@ class ProjectBox extends React.Component {
             todos:todoslist
         })
 
+        const uri = '/api/todoitems';
+        fetch(uri)
+            .then(response => response.json())
+            .catch(error => console.error('Unable to get items.', error));
 
 
     }
@@ -391,9 +383,9 @@ class Main extends React.Component {
         }
     }
 
-    fetchcolumn(i){
+    fetchcolumn(){
         const item={
-            ID:i,
+
         }
         fetch('api/columns', {
             method: 'POST',
@@ -404,11 +396,11 @@ class Main extends React.Component {
             body: JSON.stringify(item)
         })
             .then(response => response.json())
+            .then(data => this.addProject(data.id))
             .catch(error => console.error('Unable to add item.', error))
     }
 
-    addProject(){
-        let idx=this.state.maxid+1
+    addProject(idx){
         let projects= []
         for(let j=0;j<this.state.numberOfprojects;j++){
             projects.push(this.state.projectArray[j])
@@ -419,12 +411,16 @@ class Main extends React.Component {
             </Grid>
 
             )
-        this.fetchcolumn(idx)
+        //this.fetchcolumn(idx)
         this.setState({
             projectArray:projects,
             numberOfprojects:this.state.numberOfprojects+1,
             maxid:idx
         })
+        const uri = '/api/columns';
+        fetch(uri)
+            .then(response => response.json())
+            .catch(error => console.error('Unable to get items.', error));
     }
     addProjectwithoutfetch(dx){
         let projects= []
@@ -512,7 +508,7 @@ class Main extends React.Component {
                         {this.initcolumns()}
                         {this.state.projectArray}
                         <Grid item xs={12} md={3}>
-                            <Button variant="text" onClick={()=>this.addProject(this.state.max)}> Add Project</Button>
+                            <Button variant="text" onClick={()=>this.fetchcolumn()}> Add Project</Button>
                             <Button variant="text" onClick={()=>this.clearProjects()}> Clear Projects</Button>
                         </Grid>
                     </Grid>
