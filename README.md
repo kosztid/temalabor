@@ -25,6 +25,7 @@ Három osztályt különböztetek meg
   -	ColumnContainer
   -	Column
   -	Todo
+
 ColumnContainer: Feladata az adatbázisban található oszlopok betöltése, az oszlopok megjelenítése, kezelése.
 
 Column: Feladata az adatbázisban található teendők betöltése, tárolása, megjelenítésének kezdeményezése, és a teendőkön végezhető műveletek kezelése.
