@@ -59,6 +59,11 @@ A teendőknek van:
  - leírása,
  - illetve, hogy melyik oszlophoz tartoznak.
 
+A backend tesztelhető a backendtest alatt található xUnit tesztek segítségével.
+Tesztek az alábbiakhoz tartoznak:
+ - Todo hozzáadása
+ - Todo lekérdezése
+ - Todo törlése
 
 A program indításkor leellenőrzi, hogy létezik-e az adatbázis. Amennyiben nem, létrehozza azt.
 GET,PUT, POST,DELETE műveletek hajthatóak végre az adatokon, ezeket meghívhatjuk manuálisan is például a Postman alkalmazás használatával, illetve a webalkalmazásunk is ezeket használja.
