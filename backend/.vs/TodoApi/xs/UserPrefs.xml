@@ -1,27 +1,42 @@
 ﻿<Properties StartupConfiguration="{C5B1548E-750A-4FDD-ACC2-939CDDB0727B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ColumnsController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestProject1/UnitTest1.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Models/TodoItem.cs" Line="13" Column="48" />
-      <File FileName="Models/TodoContext.cs" Line="21" Column="62" />
-      <File FileName="Models/Column.cs" Line="10" Column="36" />
+      <File FileName="Controllers/ColumnsController.cs" Line="9" Column="1" />
       <File FileName="Data/DbInitializer.cs" />
       <File FileName="Data/TodoApiContext.cs" />
       <File FileName="Controllers/TodoItemsController.cs" />
-      <File FileName="Controllers/ColumnsController.cs" Line="1" Column="1" />
+      <File FileName="Models/TodoContext.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/TodoItem.cs" />
+      <File FileName="obj/Debug/net5.0/TodoApi.AssemblyInfo.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="CU.db" />
+      <File FileName="../TestProject1/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TodoApi" expanded="True">
+            <Node name="TestProject1" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
             <Node name="TodoApi" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ColumnsController.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
               </Node>
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True" selected="True">
+            <Node name="TestProject1" expanded="True">
+              <Node name="TestProject1" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
